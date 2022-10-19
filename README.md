@@ -26,9 +26,19 @@ Here you will see some of my works and maybe you will get to know me more.
 
 ### Featured Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Portfolio&theme=cobalt)](https://github.com/CarlosDRA/Portfolio)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Quizzical-app&theme=cobalt)](https://github.com/CarlosDRA/Quizzical-app)
+<a href="https://github.com/CarlosDRA/Portfolio" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Portfolio&theme=cobalt"/>
+</a>
+<a href="https://github.com/CarlosDRA/Quizzical-app" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Quizzical-app&theme=cobalt" />
+</a>
+<a href="https://github.com/CarlosDRA/Etch-a-Sketch" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Etch-a-Sketch&theme=cobalt"/>
+</a>
+<a href="https://github.com/CarlosDRA/library" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=library&theme=cobalt" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Etch-a-Sketch&theme=cobalt)](https://github.com/CarlosDRA/Etch-a-Sketch)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=library&theme=cobalt)](https://github.com/CarlosDRA/library)
 
 ### Top languages
 
@@ -36,9 +46,12 @@ Here you will see some of my works and maybe you will get to know me more.
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdra&count_private=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosDRA)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdra&count_private=true&theme=nightowl&show_icons=true&hide=stars,issues" />
+</a>
+<a href="https://wakatime.com/@CarlosDRA" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carlosdra&theme=nightowl" />
+</a>
 
 
 
