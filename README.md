@@ -26,7 +26,13 @@ Here you will see some of my works and maybe you will get to know me more.
 
 ### Featured Repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Portfolio&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Quizzical-app&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=Etch-a-Sketch&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdra&repo=library&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top languages
 
