@@ -49,9 +49,9 @@ Here you will see some of my works and maybe you will get to know me more.
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdra&count_private=true&theme=nightowl&show_icons=true&hide=stars,issues" />
 </a>
-<a href="https://wakatime.com/@CarlosDRA" target="_blank">
+<!-- <a href="https://wakatime.com/@CarlosDRA" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carlosdra&theme=nightowl" />
-</a>
+</a> -->
 
 
 
